@@ -12,6 +12,7 @@
           <option name="allowTypingDuringDebug" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="enableExternalSourceDebug" value="false" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
